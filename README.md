@@ -2,8 +2,8 @@
 
 This is a simple implementation of the classic Snake game built using the [raylib](https://www.raylib.com/) C library. The game is lightweight, fun, and a great way to learn game development in C. 🐍
 
-![Game Preview](https://github.com/illyamoss/snake/preview/game.jpg)
-![Game Preview](https://github.com/illyamoss/snake/preview/win.jpg)
+![Game Preview](https://github.com/illyamoss/snake/blob/main/preview/game.jpg)
+![Game Preview](https://github.com/illyamoss/snake/blob/main/preview/win.jpg)
 
 ## 🎯 Objective
 
