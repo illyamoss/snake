@@ -35,14 +35,14 @@ To compile and run the game:
 
 Clone the repository:
 
-```bash
-git clone https://github.com/illyamoss/snake.git
-cd snake
+   ```bash
+   git clone https://github.com/illyamoss/snake.git
+   cd snake
 
 Build and run:
 
-```bash
-make && ./build/program
+   ```bash
+   make && ./build/program
 
 The Makefile is preconfigured for a raylib installation via vcpkg. Ensure your paths match your environment.
 
