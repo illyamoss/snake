@@ -263,7 +263,6 @@ int main(void)
                     foodRect.y = GetRandomValue(0, screenHeight / rectSize - 1) * rectSize;
 
                     while (IsFoodInSnake(snake, foodRect)) {
-                        printf("Food IN snake\n");
                         foodRect.x = GetRandomValue(0, screenWidth / rectSize - 1) * rectSize;
                         foodRect.y = GetRandomValue(0, screenHeight / rectSize - 1) * rectSize;
                     }
